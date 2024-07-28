@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\Ejercicicio 5 2\Ejercicicio 5 2\bin\Debug\Ejercicicio 5 2.exe.config
+C:\Users\David\source\repos\Ejercicicio 5 2\Ejercicicio 5 2\bin\Debug\Ejercicicio 5 2.exe
+C:\Users\David\source\repos\Ejercicicio 5 2\Ejercicicio 5 2\bin\Debug\Ejercicicio 5 2.pdb
+C:\Users\David\source\repos\Ejercicicio 5 2\Ejercicicio 5 2\obj\Debug\Ejercicicio 5 2.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Ejercicicio 5 2\Ejercicicio 5 2\obj\Debug\Ejercicicio_5_2.Form1.resources
+C:\Users\David\source\repos\Ejercicicio 5 2\Ejercicicio 5 2\obj\Debug\Ejercicicio_5_2.Properties.Resources.resources
+C:\Users\David\source\repos\Ejercicicio 5 2\Ejercicicio 5 2\obj\Debug\Ejercicicio 5 2.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Ejercicicio 5 2\Ejercicicio 5 2\obj\Debug\Ejercicicio 5 2.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Ejercicicio 5 2\Ejercicicio 5 2\obj\Debug\Ejercicicio 5 2.exe
+C:\Users\David\source\repos\Ejercicicio 5 2\Ejercicicio 5 2\obj\Debug\Ejercicicio 5 2.pdb
